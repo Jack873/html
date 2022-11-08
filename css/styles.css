@@ -1,3 +1,18 @@
+body{
+  position: absolute;
+  width: 387px;
+  height: 96px;
+  left: 0px;
+  top: 163px;
+
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 150%;
+  letter-spacing: 0,5px;
+}
+
 .site-header{
 background-color:#ffffff;
 text-transform: uppercase
